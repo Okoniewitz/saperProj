@@ -6,7 +6,7 @@ using System;
 class Program
 
 {
-
+    //minor bug fixes
     static void Main()
 
     {
